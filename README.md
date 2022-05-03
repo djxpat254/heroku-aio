@@ -1,4 +1,4 @@
-[Click here for English version](https://github.com/djxpat254/heroku-aio/main/README_en.md)
+[Click here for English version](https://github.com/djxpat254/heroku-aio/blob/main/README_en.md)
 
 ## 鸣谢
 - [alexta69/metube](https://github.com/alexta69/metube) 简洁好用的yt-dlp前端。
